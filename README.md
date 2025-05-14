@@ -92,3 +92,32 @@ Company information
 Social media links
 Copyright information
 Each component will be designed for reusability and consistency across the application.
+
+## 🎨 UI/UX Design Planning
+
+### Design Goals
+
+- Deliver a clean, intuitive, and modern interface.
+- Ensure seamless user experience across desktop and mobile devices.
+- Prioritize accessibility and responsive layout design.
+- Minimize user effort during browsing and booking processes.
+
+### Key Features to Implement
+
+- Search and filter functionality for property listings.
+- Interactive property cards with preview images and prices.
+- Detailed property pages with photo gallery and amenities.
+- A simple, streamlined booking/checkout flow.
+- Clear navigation and call-to-action buttons.
+
+### Primary Pages Overview
+
+| Page                      | Description                                                                                                                                               |
+| ------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Property Listing View** | Displays a list/grid of available properties with images, pricing, and brief descriptions. Includes filters for location, price range, and property type. |
+| **Listing Detailed View** | Shows full details of a selected property, including images, amenities, reviews, and booking options.                                                     |
+| **Simple Checkout View**  | A minimal booking form where users input their details, select dates, and confirm payment. Prioritizes ease of use and trust.                             |
+
+### Why User-Friendly Design Matters in a Booking System
+
+A user-friendly design reduces friction and confusion during the browsing and booking process. In a high-stakes system like booking accommodations, clarity, speed, and trust are critical. Users should feel confident navigating the platform, understanding prices, and completing a booking with minimal steps and no uncertainty. A good design boosts user retention, reduces bounce rates, and increases successful conversions.
