@@ -194,3 +194,25 @@ Headings: 24–32px, Bold
 Subheadings: 18–20px, Semi-bold
 
 Body: 14–16px, Regular
+
+## 👥 Project Roles and Responsibilities
+
+To ensure effective collaboration and project success, the following roles have been defined:
+
+| Role                      | Responsibilities                                                                                                                                        |
+| ------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Project Manager**       | Oversees project timelines, manages team communication, sets priorities, removes blockers, and ensures the project stays on schedule and within scope.  |
+| **Product Owner**         | Defines the vision and goals of the product, prioritizes features in the product backlog, and ensures the team is building the right product for users. |
+| **Scrum Master**          | Facilitates agile processes, runs standups, sprint planning, and retrospectives. Removes obstacles and ensures the team adheres to Scrum principles.    |
+| **Frontend Developer(s)** | Builds the user interface using HTML, CSS, JavaScript (or React). Implements responsive designs and ensures a seamless user experience.                 |
+| **Backend Developer(s)**  | Develops server-side logic, APIs, database models, and handles data management, authentication, and integrations with the frontend.                     |
+| **UI/UX Designer**        | Designs intuitive and visually appealing interfaces. Creates wireframes, mockups, and prototypes to guide development. Ensures consistency in design.   |
+| **QA/Testers**            | Writes and executes test cases to identify bugs and performance issues. Ensures all features meet quality standards before release.                     |
+| **DevOps Engineer**       | Manages deployment pipelines, CI/CD workflows, server configurations, and ensures reliable and scalable application hosting.                            |
+
+---
+
+### 💡 Why Roles Matter
+
+Defining clear roles and responsibilities allows the team to stay organized, reduces miscommunication, and enhances accountability.
+Each role contributes uniquely toward building a reliable, user-friendly, and high-performing product.
