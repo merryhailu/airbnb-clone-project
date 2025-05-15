@@ -216,3 +216,43 @@ To ensure effective collaboration and project success, the following roles have 
 
 Defining clear roles and responsibilities allows the team to stay organized, reduces miscommunication, and enhances accountability.
 Each role contributes uniquely toward building a reliable, user-friendly, and high-performing product.
+
+## 🧩 UI Component Patterns
+
+As part of building a scalable and maintainable frontend, we are identifying and designing reusable UI components. These components will serve as building blocks for the user interface and ensure design consistency throughout the application.
+
+### Core Components
+
+- **Navbar**
+
+  - Appears at the top of every page.
+  - Includes logo, search bar, navigation links (e.g., Home, Listings, Sign In, Sign Up).
+  - Responsive design with a mobile-friendly dropdown menu.
+
+- **Property Card**
+
+  - Used on the property listing page.
+  - Displays key information such as image, name, location, price per night, rating.
+  - Clickable to navigate to the Property Detail View.
+
+- **Footer**
+  - Appears at the bottom of all pages.
+  - Contains links such as About, Help, Terms, and social media icons.
+  - Responsive and styled for readability.
+
+---
+
+### Additional Planned Components
+
+- **Search Filter Panel** – Allows users to filter properties based on location, price, amenities, etc.
+- **Booking Form** – Captures guest information and reservation details.
+- **Review Tile** – Shows individual user reviews with name, rating, and comments.
+- **Image Carousel** – Displays multiple property images in a slider format on the detail view.
+- **Modal Dialogs** – Used for login, sign-up, and alerts without navigating away from the page.
+
+---
+
+### 🔍 Why Component Patterns Matter
+
+Breaking down the UI into reusable components ensures faster development, easier maintenance, and consistent user experience.
+These patterns will follow best practices in accessibility, responsiveness, and semantic HTML structure.
