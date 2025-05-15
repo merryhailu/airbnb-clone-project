@@ -121,3 +121,76 @@ Each component will be designed for reusability and consistency across the appli
 ### Why User-Friendly Design Matters in a Booking System
 
 A user-friendly design reduces friction and confusion during the browsing and booking process. In a high-stakes system like booking accommodations, clarity, speed, and trust are critical. Users should feel confident navigating the platform, understanding prices, and completing a booking with minimal steps and no uncertainty. A good design boosts user retention, reduces bounce rates, and increases successful conversions.
+
+1. Home / Property Listing Page
+   Purpose: Show a grid of available hotels with filter/search options.
+   figma design: https://www.figma.com/design/E2BRqdPcKkrnX6hLGPto8Z/Project-Airbnb?node-id=1-4&p=f&t=8xBl8YpLSozjYDXh-0
+
+Key Elements:
+
+Top Navigation Bar: Logo, Search Bar, Login/Register
+
+Filters: Location, Price Range, Ratings, Dates
+
+Hotel Cards:
+
+Hotel name
+
+Price per night
+
+Rating & reviews
+
+Thumbnail image
+
+"View Details" button
+
+2. Hotel Detail Page
+   Purpose: Provide comprehensive details about a selected hotel.
+
+Key Elements:
+
+Hotel Image Carousel
+
+Hotel Name & Location
+
+Price breakdown
+
+Description
+
+Amenities (Wi-Fi, AC, Breakfast, etc.)
+
+Customer reviews
+
+Booking CTA ("Reserve Now" button)
+
+3. Checkout Page
+   Purpose: Allow users to input booking details and complete the transaction.
+
+Key Elements:
+
+Booking Summary (hotel name, dates, guests)
+
+Guest Info Form (name, email, phone)
+
+Payment Section (card info, billing address)
+
+Confirm Booking button
+
+🎨 Sample Style Guide (for use in Figma)
+Colors:
+Primary: #FF5A5F (Action)
+
+Secondary: #484848 (Text)
+
+Background: #FFFFFF
+
+Accent: #00A699 (Success or Info)
+
+Typography:
+Font Family: Inter or Poppins
+
+Headings: 24–32px, Bold
+
+Subheadings: 18–20px, Semi-bold
+
+Body: 14–16px, Regular
